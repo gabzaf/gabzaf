@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @gabzaf, Gabriel Affonso. I majored in Electrical Engineer and did a MBA in Energy Business. 
-I have past experiences with Telecommunications and Electrical Systems. Moreover, I have been doing a professional relocation from hardware projects and contracting to Software Dev.
-Portuguese, Spanish and English speaker.
-- 👀 I’m interested in Software Development. Focus on how to dominate the full stack.
-- 🌱 I’m currently learning HTML5, CSS3, JS, Python, Git. 
-- 💞️ I’m looking to collaborate on tasks that evolve my coding skills and most important I am always willing to learn any technology. 
+- 👋 Hi, I’m @gabzaf, Gabriel Affonso. 
+- 🧑‍💻 Developer in the early stage of the learning journey.
+- 👀 Interested in Software Development. Focusing on how to dominate the full stack.
+- 🌱 Currently learning HTML5, CSS3, JS, Python, Git. 
+- 💞️ Looking to collaborate on tasks that evolve my coding skills and most important I am always willing to learn any technology. 
+- 🎓 I majored in Electrical Engineer and did a MBA in Energy Business.
+- 📚 Portuguese, Spanish and English speaker.
+- 📍 Based in Portugal.
 - 📫 Western European Time. Reach me anytime.
+
 
 <div>
   <a href="https://github.com/gabzaf">
