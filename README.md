@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @gabzaf, Gabriel Affonso. 
 - 🧑‍💻 Developer in the early stage of the learning journey.
 - 👀 Interested in Software Development. Focusing on how to dominate the full stack.
-- 🌱 Currently learning HTML5, CSS3, JS, Python, Git. 
+- 🌱 Currently learning C#.
+-  HTML5, CSS3, JS, Python, Git. 
 - 💞️ Looking to collaborate on tasks that evolve my coding skills and most important I am always willing to learn any technology. 
 - 🎓 I majored in Electrical Engineer and did a MBA in Energy Business.
 - 📚 Portuguese, Spanish and English speaker.
@@ -20,6 +21,7 @@
   <img align="center" alt="Gab-CSSL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gab-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Gab-CSharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
 </div>
   
 ##
