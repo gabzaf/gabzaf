@@ -1,20 +1,28 @@
-- 👋 Hi, I’m @gabzaf, Gabriel Affonso. 
-- 🌱 Currently learning C#, .NET Core MVC and MySQL.
-- ⏩ C#, .NET Core, XAML, HTML5, CSS3, JS, Python, Git.
-- 🧑‍💻 My goal is to become a .NET Core developer. I started to follow a back-end roadmap, https://roadmap.sh/backend, on May 2022. My focus is on some technologies, such as: .NET Core, Databases, Linux, Microservices, Message Brokers and Cloud.
-- 👀 What am I good at? My ability to identify the context and circumstances of the topic in which the problem is embedded, before starting to take any action, helps me to identify the correct assumptions. Active listening, analysis, research and creativity are important to my problem-solving process. I also believe that watching other devs solve problems is helpful. I try to balance my technical skills with my soft skills to adapt on collaborating with a team, to detach information from noise, to get to know the people on the team. The value I deliver is building systems that are cohesive, functional and on demand. Obtaining a financial return, RoI/TiR, is always present on the modelling.
-- 💻 The first apps I wrote were relevant for me to believe that I have been evolving in this area and understanding non-trivial nuances. I realized that language/framework foundations are specialized foundations, they are specific to certain languages in a given context and that I will never be an expert in all languages, however having a solid foundation makes it easier to adapt to new technologies. Getting started and getting through the first step was a victory. Every day is a day to learn. 
-- 🌞 The most important recent achievement was emigration to Portugal, this decision was already taken before the covid19 pandemic, but the economic scenario due to this event proved to be a challenge for everyone and it was no different for me . Financial planning had to be fed with new conditions. I have been living in Porto since May 2021 and I conclude that I followed the correct strategy so far, living abroad has become my reality. Along with moving to another country, the core of the strategy was the professional trajectory to be able to reconcile my career aspirations with the Portuguese market. 
-- 🔌 Still in Brazil, my professional occupation was Electrical Engineer of Electrical Projects, the desicion to become an entrepenuer happened due to the devastating economic crisis that hit Brazil in 2014. The beginning was difficult, because I had to do everything myself, I was the company . All activities were my responsibility, prospecting services, designing facilities, selling projects, building budgets, forming a team, publicizing my services and all things. I managed to divide my available time and was successful in delivering financial results and security to my clients. Before that my activity ranged from project management of telecommunications systems nation-wide and robotics prototypes.
-- ⌚ In all periods I had contact with different software, process automation and different programming languages. I always had to adapt to realities and adversities. Adaptability was the difference between falling and getting up or giving up. Through experiences I realized that I never lose, I win or I learn. I accept what happens to me, but withdraw some learning for the future.
-- 🌳 The career transition from the hardware to software world is the biggest recent challenge along with moving to another country.
-- ❗ The definition of a team, in my opinion, is a group of people who have shared goals and a common notion of what it means to win. I'd rather be a team player than to play alone. I believe it is good to build professional relationships of trust.
-- 💞️ Looking to collaborate on tasks that evolve my coding skills and I am always willing to learn any technology. 
-- 🎓 I majored in Electrical Engineer and did a MBA in Energy Business.
-- 📚 Portuguese, Spanish and English speaker.
-- 📍 Based in Portugal.
-- 📫 Western European Time. Reach me anytime.
+👋 Hi, I’m @gabzaf, Gabriel Affonso.
 
+🌱 Currently immersed in Computer Science studies at 42 Porto, I'm focused on sharpening my skills in C language projects and Shell Scripts. Engaged in regular peer code reviews, I refine my coding and communication abilities while supplementing my learning with Cybersecurity courses to merge theory with practical labs.
+
+⏩ C, Python, SQL, Shell Scripting and Assembly are among the languages and technologies I'm deepening my knowledge in. My passion lies in web technologies, web systems and security.
+
+🧑‍💻 My journey as a future-focused human firewall has its roots in my previous role as an Electrical Engineer. There, I honed skills in organization, discipline, problem-solving and communication under pressure, all of which prepare me well for this digital transformation journey.
+
+👀 What am I good at? My ability to identify the context and circumstances of a problem before taking action helps me make correct assumptions. Active listening, analysis, research and creativity are essential to my problem-solving process. I also value watching other devs solve problems to enrich my learning.
+
+💻 The first apps I wrote were crucial for my evolution in the field, helping me understand non-trivial nuances. I've realized that language and framework foundations are specialized and context-specific, and while I may not become an expert in all languages, having a solid foundation makes adapting to new technologies easier. Every day is an opportunity to learn and grow.
+
+🌞 The most significant recent achievement in my journey was emigrating to Portugal. This decision, made before the COVID-19 pandemic, presented financial challenges, but my strategic approach and resilience have allowed me to adapt successfully to living abroad. Alongside this move, my focus has been on aligning my professional trajectory to thrive in the Portuguese market.
+
+🔌 In all periods, I've had exposure to different software, process automation, and programming languages, requiring adaptability in the face of various realities and adversities. Through experiences, I've learned that I never lose; I either win or learn.
+
+⌚ The career transition from hardware to the software world has been my most significant recent challenge, along with adapting to life in a new country.
+
+❗ The definition of a team, in my opinion, is a group of people who share goals and a common notion of what it means to win. I prefer being a team player over playing alone and believe in building professional relationships of trust.
+
+💞️ Looking to collaborate on tasks that evolve my coding skills, I'm always eager to learn new technologies.
+
+🎓 I hold a degree in Electrical Engineering and an MBA in Energy Business.
+
+📚 Portuguese, Spanish and English speaker and based in Portugal, I'm in the Western European Time zone and reachable anytime.
 
 <div>
   <a href="https://github.com/gabzaf">
