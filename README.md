@@ -1,26 +1,18 @@
 👋 Hi, I’m @gabzaf, Gabriel Affonso.
 
-🌱 Currently immersed in Computer Science studies at 42 Porto, I'm focused on sharpening my skills in C language projects and Shell Scripts. Engaged in regular peer code reviews, I refine my coding and communication abilities while supplementing my learning with Cybersecurity courses to merge theory with practical labs.
+As a career changer from Electrical 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 to Cyber Security Professional, I bring to the table a unique blend of organizational acumen, disciplined problem-solving and adept communication skills under pressure.
 
-⏩ C, Python, SQL, Shell Scripting and Assembly are among the languages and technologies I'm deepening my knowledge in. My passion lies in web technologies, web systems and security.
+On my journey as a human firewall, I'm currently sharpening my expertise in 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 at 42 Porto, understanding that mastering the fundamentals is paramount in this ever-evolving field.
 
-🧑‍💻 My journey as a future-focused human firewall has its roots in my previous role as an Electrical Engineer. There, I honed skills in organization, discipline, problem-solving and communication under pressure, all of which prepare me well for this digital transformation journey.
+With a coding journey dating back to 2022, I've been deeply engaged in challenging C projects and 𝗦𝗵𝗲𝗹𝗹 𝗦𝗰𝗿𝗶𝗽𝘁𝘀, refining my coding prowess and communication skills through rigorous peer code reviews. Complemented by immersive 𝗖𝘆𝗯𝗲𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 pursuits, I blend theory with hands-on labs. I’m deeply committed to securing an organization’s assets.
 
-👀 What am I good at? My ability to identify the context and circumstances of a problem before taking action helps me make correct assumptions. Active listening, analysis, research and creativity are essential to my problem-solving process. I also value watching other devs solve problems to enrich my learning.
+Beyond the fundamentals, I'm delving deeper into 𝗣𝘆𝘁𝗵𝗼𝗻, SQL and Assembly, driven by a passion for web technologies, network systems and security.
 
-💻 The first apps I wrote were crucial for my evolution in the field, helping me understand non-trivial nuances. I've realized that language and framework foundations are specialized and context-specific, and while I may not become an expert in all languages, having a solid foundation makes adapting to new technologies easier. Every day is an opportunity to learn and grow.
+Technical Habilities: Python | Shell Script | Linux | Git | C | Makefile | Assembly | C# 
 
-🌞 The most significant recent achievement in my journey was emigrating to Portugal. This decision, made before the COVID-19 pandemic, presented financial challenges, but my strategic approach and resilience have allowed me to adapt successfully to living abroad. Alongside this move, my focus has been on aligning my professional trajectory to thrive in the Portuguese market.
+Tools: tcpdump | Wireshark | BurpSuite | Vim | GitHub | Visual Studio Code
 
-🔌 In all periods, I've had exposure to different software, process automation, and programming languages, requiring adaptability in the face of various realities and adversities. Through experiences, I've learned that I never lose; I either win or learn.
-
-⌚ The career transition from hardware to the software world has been my most significant recent challenge, along with adapting to life in a new country.
-
-❗ The definition of a team, in my opinion, is a group of people who share goals and a common notion of what it means to win. I prefer being a team player over playing alone and believe in building professional relationships of trust.
-
-💞️ Looking to collaborate on tasks that evolve my coding skills, I'm always eager to learn new technologies.
-
-🎓 I hold a degree in Electrical Engineering and an MBA in Energy Business.
+Personal qualities: Organized | Curious & Independent Learner | Fast Problem Solver | Flexible 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 | Good Team Player
 
 📚 Portuguese, Spanish and English speaker and based in Portugal, I'm in the Western European Time zone and reachable anytime.
 
