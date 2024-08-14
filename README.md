@@ -4,8 +4,6 @@ On my journey as a human firewall, I'm currently sharpening my expertise in 𝗖
 
 Beyond the fundamentals, I'm delving deeper into 𝗣𝘆𝘁𝗵𝗼𝗻, SQL and Assembly, driven by a passion for web technologies, network systems and security.
 
-Technical Habilities: Python | Shell Script | Linux | Git | C | Makefile | Assembly | C# 
-
 Personal qualities: Organized | Curious & Independent Learner | Fast Problem Solver | Flexible 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 | Good Team Player
 
 📚 Portuguese, Spanish and English speaker.
