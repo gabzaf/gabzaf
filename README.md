@@ -8,7 +8,7 @@ Technical Habilities: Python | Shell Script | Linux | Git | C | Makefile | Assem
 
 Personal qualities: Organized | Curious & Independent Learner | Fast Problem Solver | Flexible 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 | Good Team Player
 
-📚 Portuguese, Spanish and English speaker and based in Portugal, I'm in the Western European Time zone and reachable anytime.
+📚 Portuguese, Spanish and English speaker.
 
 <div>
   <a href="https://github.com/gabzaf">
