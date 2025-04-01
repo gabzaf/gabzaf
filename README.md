@@ -8,7 +8,7 @@ Beyond the fundamentals, I'm delving deeper into 𝗣𝘆𝘁𝗵𝗼𝗻, SQL a
 
 🎯 Focus: Web security, network systems, systems recon and secure coding practices.
 
-🌍 Languages: Portuguese (native), Spanish, English (fluent).
+🌍 Languages: Portuguese, Spanish, English.
 
 <div>
   <a href="https://github.com/gabzaf">
