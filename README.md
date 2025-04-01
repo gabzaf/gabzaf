@@ -12,8 +12,8 @@ Beyond the fundamentals, I'm delving deeper into 𝗣𝘆𝘁𝗵𝗼𝗻, SQL a
 
 <div>
   <a href="https://github.com/gabzaf">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=gabzaf&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzaf&layout=compact&langs_count=16&theme=light"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=gabzaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzaf&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
