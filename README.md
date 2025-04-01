@@ -4,7 +4,11 @@ On my journey as a human firewall, I'm currently sharpening my expertise in 𝗖
 
 Beyond the fundamentals, I'm delving deeper into 𝗣𝘆𝘁𝗵𝗼𝗻, SQL and Assembly, driven by a passion for web technologies, network systems and security.
 
-📚 Portuguese, Spanish and English speaker.
+🛠️ Skills: Python | Shell Script | C | C++ | SQL | Assembly | Pentesting (Burp Suite, Nmap, Wireshark)
+
+🎯 Focus: Web security, network systems, systems recon and secure coding practices.
+
+🌍 Languages: Portuguese (native), Spanish, English (fluent).
 
 <div>
   <a href="https://github.com/gabzaf">
@@ -13,6 +17,7 @@ Beyond the fundamentals, I'm delving deeper into 𝗣𝘆𝘁𝗵𝗼𝗻, SQL a
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
   <img align="center" alt="Gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gab-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
