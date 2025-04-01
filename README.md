@@ -4,8 +4,6 @@ On my journey as a human firewall, I'm currently sharpening my expertise in 𝗖
 
 Beyond the fundamentals, I'm delving deeper into 𝗣𝘆𝘁𝗵𝗼𝗻, SQL and Assembly, driven by a passion for web technologies, network systems and security.
 
-Personal qualities: Organized | Curious & Independent Learner | Fast Problem Solver | Flexible 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 | Good Team Player
-
 📚 Portuguese, Spanish and English speaker.
 
 <div>
@@ -19,6 +17,7 @@ Personal qualities: Organized | Curious & Independent Learner | Fast Problem Sol
   <img align="center" alt="Gab-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gab-CSharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gab-ASM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assemblyscript/assemblyscript-original.svg">
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gab-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
