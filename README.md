@@ -1,8 +1,11 @@
 # 👋 Hi, I’m Gabriel Affonso.
 
-On my journey as a **human firewall**, I'm currently sharpening my expertise in **Computer Science** at **42 Porto**. I believe that mastering the fundamentals is the only way to stay ahead in this ever-evolving field.
+On my journey as a **human firewall**, I'm currently sharpening my expertise in **Computer Science** at **42 Porto**.  
+I believe that mastering the fundamentals is the only sustainable way to stay ahead in this ever-evolving field.
 
-Beyond the basics, I'm deep-diving into **Python, SQL, Assembly, and TypeScript**, driven by a passion for web technologies, network systems, and cybersecurity.
+I follow a **learning-on-demand** mindset — no premature efficiency, no shortcuts — focusing on understanding systems deeply before optimizing them.
+
+Beyond the basics, I'm deep-diving into **Python, SQL, C, C++ and TypeScript**, driven by a passion for web technologies, network systems and cybersecurity.
 
 ---
 
@@ -24,21 +27,18 @@ Beyond the basics, I'm deep-diving into **Python, SQL, Assembly, and TypeScript*
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-**🎯 Focus:** Web security, network systems, systems recon, and secure coding practices.
+**🎯 Focus:** Web security, network systems, systems reconnaissance, and secure coding practices.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=gabzaf&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800" />
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzaf&layout=compact&langs_count=8&theme=dark&cache_seconds=1800" />
+  <img src="https://metrics.lecoq.io/gabzaf?template=classic&languages=1&followup=1&stars=1&repositories=1&languages.limit=8&languages.threshold=0%25&config.timezone=Europe%2FLisbon" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-affonsocybersec/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-affonsocybersec/)
