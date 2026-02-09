@@ -31,23 +31,6 @@ I’m currently deep-diving into **Python, SQL, C, C++, Assembly and TypeScript*
 
 ---
 
-## 📊 GitHub Stats
-
-> ⚠️ Note: GitHub Readme Stats is best-effort on the public endpoint and may occasionally cache or rate-limit.
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gabzaf&show_icons=true&theme=dark"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzaf&layout=compact&theme=dark"
-    height="180"
-  />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-affonsocybersec/)
