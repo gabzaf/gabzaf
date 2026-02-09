@@ -2,7 +2,7 @@
 
 On my journey as a **human firewall**, I'm currently sharpening my expertise in **Computer Science** at **42 Porto**. I believe that mastering the fundamentals is the only way to stay ahead in this ever-evolving field.
 
-Beyond the basics, I'm deep-diving into **Python, SQL, and Assembly**, driven by a passion for web technologies, network systems, and cybersecurity.
+Beyond the basics, I'm deep-diving into **Python, SQL, Assembly, and TypeScript**, driven by a passion for web technologies, network systems, and cybersecurity.
 
 ---
 
@@ -14,6 +14,7 @@ Beyond the basics, I'm deep-diving into **Python, SQL, and Assembly**, driven by
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square)
 
 **Security & Infrastructure:**
@@ -30,8 +31,10 @@ Beyond the basics, I'm deep-diving into **Python, SQL, and Assembly**, driven by
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabzaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzaf&layout=compact&langs_count=8&theme=dark" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=gabzaf&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzaf&layout=compact&langs_count=8&theme=dark&cache_seconds=1800" />
 </p>
 
 ---
@@ -39,4 +42,3 @@ Beyond the basics, I'm deep-diving into **Python, SQL, and Assembly**, driven by
 ### 🌐 Connect with Me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-affonsocybersec/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.affonsoo@gmail.com)
