@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Gabriel Affonso
 
-On my journey as a **human firewall**, I’m currently sharpening my fundamentals in **Computer Science** at **42 Porto**.
+As a **security-focused engineer**, I build resilient digital infrastructures through the rigorous curriculum at **42 Porto**.
 
-I believe in **learning on demand — no premature efficiency**.  
-Master the basics first, optimize later. That’s how you build systems (and skills) that actually last.
+I advocate for **on-demand architecture — avoiding premature efficiency**.  
+Solidify core logic, scale later. This ensures systems (and infrastructures) remain truly sustainable.
 
-I’m currently deep-diving into **Python, SQL, C, C++, Assembly and TypeScript**, with a strong interest in **web technologies, network systems and cybersecurity**.
+I specialize in **Python, SQL, C, C++ and TypeScript**, focusing professionally on **web ecosystems, network architecture and cybersecurity**.
 
 ---
 
