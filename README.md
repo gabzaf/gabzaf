@@ -1,11 +1,9 @@
 # 👋 Hi, I’m Gabriel Affonso
 
-As a **security-focused engineer**, I build resilient digital infrastructures through the rigorous curriculum at **42 Porto**.
+As a **Systems & Security Engineer**, I develop resilient digital infrastructures by bridging low-level logic with modern web architecture at **42 Porto**.
 
-I advocate for **on-demand architecture — avoiding premature efficiency**.  
-Solidify core logic, scale later. This ensures systems (and infrastructures) remain truly sustainable.
-
-I specialize in **Python, SQL, C, C++ and TypeScript**, focusing professionally on **web ecosystems, network architecture and cybersecurity**.
+I advocate for **lean engineering — avoiding premature optimization**.  
+By mastering core fundamentals first, I build scalable systems (and skills) engineered to withstand real-world threats.
 
 ---
 
