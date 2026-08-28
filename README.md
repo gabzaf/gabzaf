@@ -1,34 +1,37 @@
-# 👋 Hi, I’m Gabriel Affonso
+# Gabriel Affonso
 
-As a **Systems & Security Engineer**, I develop resilient digital infrastructures by bridging low-level logic with modern web architecture at **42 Porto**.
+Linux System Administrator and Security Analyst in Porto. 42 Porto.
 
-I advocate for **lean engineering — avoiding premature optimization**.  
-By mastering core fundamentals first, I build scalable systems (and skills) engineered to withstand real-world threats.
+I harden and operate Linux with Python, Bash, Docker, Ansible and Vagrant: SSH, firewall, VPN, WAF, containers, Kubernetes (K3s/K8s) and logs. Ethical hacking on **authorised labs** (OWASP): recon, findings, and reports with impact and remediation.
+
+**Looking for:** System Administrator · Security Analyst · SOC · junior Security / DevOps
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Proof of work
 
-### Programming & Scripting
+| Repo | What it is |
+|---|---|
+| [zero-trust-vps-platform](https://github.com/gabzaf/zero-trust-vps-platform) | Linux VPS I operate: WireGuard admin, Cloudflare WAF, Docker/Traefik, logs and rollback |
+| [pentest-lab-reports](https://github.com/gabzaf/pentest-lab-reports) | Lab reports (command injection, IDOR): finding, impact, fix — not commercial pentest |
+
+---
+
+## Stack
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
-### Security & Infrastructure
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Pentesting](https://img.shields.io/badge/-Pentesting-FF6600?style=flat-square&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-🎯 **Focus:** Web security, network systems, systems reconnaissance and secure coding practices.
+(ISC)² CC. PT / EN / ES. Ex-electrical engineer: risk, standards, clients.
 
 ---
-
-## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-affonsocybersec/)
