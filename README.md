@@ -4,8 +4,6 @@ Linux System Administrator and Security Analyst in Porto. 42 Porto.
 
 I harden and operate Linux with Python, Bash, Docker, Ansible and Vagrant: SSH, firewall, VPN, WAF, containers, Kubernetes (K3s/K8s) and logs. Ethical hacking on **authorised labs** (OWASP): recon, findings, and reports with impact and remediation.
 
-**Looking for:** System Administrator · Security Analyst · SOC · junior Security / DevOps
-
 ---
 
 ## Proof of work
