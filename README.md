@@ -28,7 +28,7 @@ I harden and operate Linux with Python, Bash, Docker, Ansible and Vagrant: SSH, 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
-(ISC)² CC. PT / EN / ES. Ex-electrical engineer: risk, standards, clients.
+(ISC)² CC. PT / EN / ES. As Electrical Engineer: risk, standards, clients.
 
 ---
 
