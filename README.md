@@ -1,8 +1,8 @@
 # Gabriel Affonso
 
-Linux System Administrator and Security Analyst in Porto. 42 Porto.
+Linux System Administrator focused on security · Porto, Portugal · Student at 42 Porto
 
-I harden and operate Linux with Python, Bash, Docker, Ansible and Vagrant: SSH, firewall, VPN, WAF, containers, Kubernetes (K3s/K8s) and logs. Ethical hacking on **authorised labs** (OWASP): recon, findings, and reports with impact and remediation.
+I run and harden a production Linux VPS (WireGuard, Cloudflare WAF, Docker/Traefik, centralised logs, rollback) and practise offensive security in authorised labs, writing reports with impact and remediation.
 
 ---
 
